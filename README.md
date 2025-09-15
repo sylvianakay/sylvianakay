@@ -1,26 +1,9 @@
 ## 👋 Hi there
-```bash
-$ whoami
-Sylvana
+I’m Sylvana, a Computer Science student at the University of Crete and an aspiring Full-Stack Developer. 
+I enjoy experimenting with code, working with APIs, exploring AI tools, and bringing ideas to life. 
+Skilled in Java, Servlets, SQL, Node.js, and React, with a strong foundation in algorithms, data structures, operating systems, and computer networks.
 
-$ cd ~/about_me
-> Computer Science student @ University of Crete
-> Aspiring Full-Stack Developer
-> Love experimenting with code and bringing ideas to life
-
-$ ls ~/skills
-Java       Servlets       SQL
-Node.js    React          APIs
-AI_Tools   Algorithms     Data_Structures
-OS         Computer_Networks
-
-$ cat ~/philosophy
-"Approach problems logically, craft effective solutions, and never stop learning."
-
-$ sudo explore new_technologies
-> Searching for exciting challenges...
-> Learning mode: ON
-
+Always eager to learn new technologies and take on exciting challenges.
 
 ---
 ### 🛠️ Languages & Tools
