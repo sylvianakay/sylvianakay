@@ -1,6 +1,6 @@
-## 👋 Hi, I'm **Anastasia-Sylvana Kakarontza**
+## 👋 Hi there
 
-I am a Computer Science student at the University of Crete and an aspiring Full-Stack Developer. I like experimenting with code to see ideas come to life.  
+I am Sylvana, a Computer Science student at the University of Crete and an aspiring Full-Stack Developer. I like experimenting with code to see ideas come to life.  
 
 My experience includes **Java, Servlets, SQL, Node.js, and React**, and I enjoy working with **APIs and exploring AI technologies** as tools. Studying **algorithms, data structures, operating systems, and computer networks** has taught me to approach problems logically and craft effective solutions.  
 
