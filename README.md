@@ -37,7 +37,7 @@ Always on the lookout for new technologies to learn and exciting challenges.
 
 - I love coding with music in the background 🎧💻  
 - Quick learner — I pick up new concepts like binary search scans a sorted array: steady and reliable 🚀  
-- Social and communicative — I enjoy turning ideas into conversations 💬  
+- Team player — I’m social, collaborative, and enjoy making great things happen together 💬  
 
 ---
 
