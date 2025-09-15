@@ -27,7 +27,6 @@ Always eager to learn new technologies and take on exciting challenges.
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sylvianakay&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="230"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvianakay&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="230"/>
-  <img src="https://streak-stats.demolab.com/?user=sylvianakay&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="230"/>
 </div>
 
 ---
