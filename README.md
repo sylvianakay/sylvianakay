@@ -1,17 +1,11 @@
 # 👋 Hi, I'm **Anastasia-Sylvana Kakarontza**
 
-### 🎓 About Me
-**21 years old** – Computer Science student at **CSD, University of Crete**  
- **Aspiring Full-Stack Developer** – building **websites, mobile apps & databases**  
+I am a 21-year-old Computer Science student at the University of Crete and an aspiring Full-Stack Developer. I love bringing ideas to life by building websites, mobile applications, and databases.  
 
-### 🌱 Backend & Database Experience
-Experienced with **Java, Servlets, SQL**, and building backend systems with **Node.js**  
+My experience includes **Java, Servlets, SQL, Node.js, and React**, and I enjoy working with **APIs and exploring AI technologies**. Studying **algorithms, data structures, operating systems, and computer networks** has taught me to approach problems logically and craft effective solutions.  
 
-### ⚡ Frontend Focus
-Working with **modern frameworks like React**  
+I'm always on the lookout for new technologies to learn and exciting challenges.
 
-### 🚀 Goals
-Creating **scalable, clean, and maintainable projects**
 
 ---
 ### 🛠️ Languages & Tools
