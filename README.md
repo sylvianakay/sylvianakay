@@ -43,7 +43,7 @@ Always on the lookout for new technologies to learn and exciting challenges.
 
 ### 🔗 Connect with Me
 <p >
-  <a href="https://www.linkedin.com/in/anastasia-sylvana-kakarontza-218086259/" target="_blank">
+  <a href="https://www.linkedin.com/in/συλβανα-κακαρόντζα-341708344/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="mailto:sylvkakarontza@gmail.com">
