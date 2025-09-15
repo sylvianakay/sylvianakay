@@ -1,10 +1,25 @@
 ## 👋 Hi there
+```bash
+$ whoami
+Sylvana
 
-I am Sylvana, a Computer Science student at the University of Crete and an aspiring Full-Stack Developer. I like experimenting with code to see ideas come to life.  
+$ cd ~/about_me
+> Computer Science student @ University of Crete
+> Aspiring Full-Stack Developer
+> Love experimenting with code and bringing ideas to life
 
-My experience includes **Java, Servlets, SQL, Node.js, and React**, and I enjoy working with **APIs and exploring AI technologies** as tools. Studying **algorithms, data structures, operating systems, and computer networks** has taught me to approach problems logically and craft effective solutions.  
+$ ls ~/skills
+Java       Servlets       SQL
+Node.js    React          APIs
+AI_Tools   Algorithms     Data_Structures
+OS         Computer_Networks
 
-Always on the lookout for new technologies to learn and exciting challenges.
+$ cat ~/philosophy
+"Approach problems logically, craft effective solutions, and never stop learning."
+
+$ sudo explore new_technologies
+> Searching for exciting challenges...
+> Learning mode: ON
 
 
 ---
