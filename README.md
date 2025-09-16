@@ -33,8 +33,8 @@ Always eager to learn new technologies and take on exciting challenges.
 ## ⚡ Fun Facts
 
 - I love coding with music in the background 🎧💻  
-- Quick learner — I pick up new concepts like binary search scans a sorted array: steady and reliable 🚀  
-- Team player — I’m social, collaborative, and enjoy making great things happen together 💬  
+- Quick learner, I pick up new concepts like binary search scans a sorted array: steady and reliable 🚀  
+- Team player, I’m social, collaborative, and enjoy making great things happen together 💬  
 
 ---
 
