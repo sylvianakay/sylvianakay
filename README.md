@@ -21,7 +21,6 @@ Always eager to learn new technologies and take on exciting challenges.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="60" height="60" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="60" height="60" alt="AI Agents"/>
 </div>
 
 ---
