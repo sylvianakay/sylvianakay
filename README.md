@@ -35,23 +35,30 @@ Always eager to learn new technologies and take on exciting challenges.
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="40" alt="Postman" />
 
 </div>
----
 
-### 📊 GitHub Stats<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sylvianakay&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sylvianakay&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=sylvianakay&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sylvianakay&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
----
 
-### 🔗 Connect with Me
-<p >
+## 🔗 Connect with Me
+
+<p style="display: flex; gap: 12px; justify-content: center;">
   <a href="https://www.linkedin.com/in/sylvana-kakarontza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
+
   <a href="mailto:sylvkakarontza@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
-  </a>
-  <a href="https://github.com/sylvianakay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>
 </p>
